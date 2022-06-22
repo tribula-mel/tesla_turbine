@@ -1,16 +1,2 @@
-1) verified
-   spacer ok
-   disk ok
-   colar ok
-   pin ok
-   shaft ok
-   puley ok
-   l_shape ok
-   body ok
-   inlet ok
-   side_plate ok
-
-2) verify
-   bearing hole drill 3mm availability
-   m4x05 thread availability
-
+verify
+   m4x0.5 thread availability
